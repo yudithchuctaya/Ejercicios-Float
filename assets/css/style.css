@@ -1,0 +1,63 @@
+*{
+    outline: 2px solid red;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #846895  ;
+    margin: 100px auto;
+    width: 80%;
+    padding: 0 40px;
+    font-family: 'Baloo Bhaijaan', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+h1 {
+    
+    margin: 50px;
+    font-size: 50px;
+    color:pink;
+}
+
+div {
+  
+    border-radius: 4px;
+    margin: -40px 0 0;
+}
+
+.imagen1{
+    margin: 20px;
+    float: left;
+    
+}
+.imagen2{
+    margin: 4px;
+    float: right;
+}
+.texto3{
+    margin: 20px;
+    margin-bottom: 50px;
+}
+.imagen3{
+    clear: right;
+}
+.contenedor{
+    width: 1000px;
+    height: 300px;
+    margin: 20px;
+    background:black;
+    border-style: dotted;  
+    font-size: 20px;
+    color: #fff;
+}
+.imagen{
+    float: right;
+    overflow: auto;
+   
+}
+.texto5{
+    margin-bottom:50px;
+    margin: 20px;
+}
+
