@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #846895  ;
+    background:"assets/img/fondo.jpg" ;
   
     font-family: 'Baloo Bhaijaan', cursive;
     font-family: 'Gloria Hallelujah', cursive;
@@ -27,6 +27,12 @@ h1 {
     float: left;
     
 }
+.texto2{
+    margin: 20px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
 .img_right{
     margin: 4px;
     float: right;
@@ -35,6 +41,7 @@ h1 {
 .texto3{
     margin: 20px;
     margin-bottom: 50px;
+    font-size: 20px;
 }
 
 .contenedor{
@@ -63,6 +70,7 @@ h1 {
 .texto{
     margin-bottom:50px;
     margin: 20px;
+    font-size: 20px;
 }
 
 .imagen2{
@@ -74,7 +82,11 @@ h1 {
 p.clear {
     clear: both;
     padding: 30px;
-    top: 80px;
+    top: 40%;
+    font-size: 20px;
+}
+p{
+     font-size: 20px;
 }
 
 
@@ -86,7 +98,8 @@ p.clear {
 p.clearleft {
     clear: left;
     padding: 30px;
-    top: 80px;
+    top: 40%;
+    font-size: 20px;
 }
  
  /*==========================contenedor de cajas==============================*/
@@ -113,3 +126,21 @@ p.clearleft {
     text-align: center;
     background-color: purple;
 }
+.perfil{
+    width: 40%;
+    height: 220px;
+    margin: 10px;
+    background:black;
+    border-style: dotted;  
+    font-size: 18px;
+    color: #fff;
+    float: left;
+}
+.idem{
+    width: 200px;
+    height: 150px;
+    float: right;
+    overflow: auto;
+    padding: 10px;
+}
+    
